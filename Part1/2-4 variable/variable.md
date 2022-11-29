@@ -27,6 +27,7 @@
  
  <hr/>
  
+ ```js
  let admin 
  let name 
  
@@ -36,4 +37,5 @@
 
 const planet = "earth";
 const userName 
+```
 
